@@ -1,0 +1,33 @@
+{
+    /* Wait what? A Platypus? */
+    "orange-50": "#fbaa37",     //
+    "orange-100": "#E09731",
+    "orange-200": "#f78105",    //
+    "orange-300": "#DE7504",
+    "orange-400": "#fc5801",    //
+    "orange-500": "#E34F00",
+    "orange-600": "#7D2C00",
+
+    "teal-50": "#34EAED",
+    "teal-100": "#31DDE0",
+    "teal-200": "#26ABAD",
+    "teal-300": "#249ea1",      //
+    "teal-400": "#008083",      //
+    "teal-500": "#026060",      //
+    "teal-600": "#014747",
+
+    /* PERRY THE PLATYPUS?! */
+    "hat": "#56361d",           //
+    "brown": "#56361d",         // Hat alternative
+
+    "light-gray": "#616C78",
+    "dark-gray": "#1a1a1a",
+    "gray": "#23272b",
+
+    /* Primary Colors */
+    "background": "#ffffff",
+    "background-dark": "#1a1a1a",   // Dark Gray
+
+    "primary": "#f78105",           // Orange-200
+    "secondary": "#DE7504"          // Orange-300
+}
