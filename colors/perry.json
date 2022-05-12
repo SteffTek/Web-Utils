@@ -29,5 +29,13 @@
     "background-dark": "#1a1a1a",   // Dark Gray
 
     "primary": "#f78105",           // Orange-200
-    "secondary": "#DE7504"          // Orange-300
+    "secondary": "#DE7504",         // Orange-300
+
+    "primary-dark": "#249ea1",      // Teal-300
+    "secondary-dark": "#008083",    // Teal-400
+
+    /* Other Colors */
+    "error": "#EF4444",             // Red-500
+    "info": "#1D4ED8",              // Blue-700
+    "success": "#15803D"            // Green-77
 }

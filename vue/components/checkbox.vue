@@ -38,6 +38,6 @@ export default {
 <template>
     <label class="inline-flex items-center justify-between">
         <span>{{ label }}&nbsp;</span>
-        <input type="checkbox" class="w-6 h-6 rounded-full form-checkbox text-primary hover:text-secondary" v-model="isChecked" />
+        <input type="checkbox" class="w-6 h-6 rounded-full form-checkbox text-primary hover:text-secondary dark:text-primary-dark dark:hover:text-secondary-dark" v-model="isChecked" />
       </label>
 </template>
