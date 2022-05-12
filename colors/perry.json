@@ -22,7 +22,7 @@
 
     "light-gray": "#616C78",
     "dark-gray": "#1a1a1a",
-    "gray": "#23272b",
+    "neutral-gray": "#23272b",
 
     /* Primary Colors */
     "background": "#ffffff",
